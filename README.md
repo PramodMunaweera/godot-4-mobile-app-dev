@@ -26,11 +26,11 @@ This is kind of my learning diary, where I am compiling a series of lessons that
     - [**Mobile App Development with Godot**](./01_Overview_of_Godot_4_and_Mobile_App_Development/01_Overview_of_Godot_4_and_Mobile_App_Development.md#mobile-app-development-with-godot)
     - [**Made with Godot**](./01_Overview_of_Godot_4_and_Mobile_App_Development/01_Overview_of_Godot_4_and_Mobile_App_Development.md#made-with-godot)
 
-- ### [**02: Godot Fundamentals**]()
-    - Installing Godot 4
-    - Exploring the Godot interface
-    - Creating a new project in Godot
-    - Introduction to nodes, scenes, instances and resources
+- ### [**02: Godot Fundamentals**](./02_Godot_Fundamentals/02_Godot_Fundamentals.md)
+    - [**Installing Godot 4**](./02_Godot_Fundamentals/02_Godot_Fundamentals.md#installing-godot-4)
+    - [**Creating a New Project in Godot**](./02_Godot_Fundamentals/02_Godot_Fundamentals.md#create-your-first-project)
+    - [**Exploring the Godot Interface**](./02_Godot_Fundamentals/02_Godot_Fundamentals.md#exploring-the-godot-interface)
+    - [**Building Blocks of a Godot Project**](./02_Godot_Fundamentals/02_Godot_Fundamentals.md#building-blocks-of-a-godot-project)
 
 - ### [**03: GDScript Fundamentals**]()
     - Scripting with GDScript
