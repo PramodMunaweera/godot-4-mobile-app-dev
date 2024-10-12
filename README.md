@@ -31,6 +31,7 @@ This is kind of my learning diary, where I am compiling a series of lessons that
     - [**Creating a New Project in Godot**](./02_Godot_Fundamentals/02_Godot_Fundamentals.md#create-your-first-project)
     - [**Exploring the Godot Interface**](./02_Godot_Fundamentals/02_Godot_Fundamentals.md#exploring-the-godot-interface)
     - [**Building Blocks of a Godot Project**](./02_Godot_Fundamentals/02_Godot_Fundamentals.md#building-blocks-of-a-godot-project)
+    - [**Build a Simple Godot UI Project**](./02_Godot_Fundamentals/02_Godot_Fundamentals.md#build-a-simple-godot-ui-project)
 
 - ### [**03: GDScript Fundamentals**]()
     - Scripting with GDScript
