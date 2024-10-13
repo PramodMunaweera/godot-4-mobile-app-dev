@@ -33,10 +33,10 @@ This is kind of my learning diary, where I am compiling a series of lessons that
     - [**Building Blocks of a Godot Project**](./02_Godot_Fundamentals/02_Godot_Fundamentals.md#building-blocks-of-a-godot-project)
     - [**Build a Simple Godot UI Project**](./02_Godot_Fundamentals/02_Godot_Fundamentals.md#build-a-simple-godot-ui-project)
 
-- ### [**03: GDScript Fundamentals**]()
-    - Scripting with GDScript
-    - Variables, Operators, Arrays, Dictionaries
-    - Functions, Control Statements, Classes
+- ### [**03: GDScript Fundamentals**](./03_GDScript_Fundamentals/03_GDScript_Fundamentals.md)
+    - [**Scripting with GDScript**](./03_GDScript_Fundamentals/03_GDScript_Fundamentals.md#scripting-with-gdscript)
+    - [**Variables, Operators, Arrays, Dictionaries**](./03_GDScript_Fundamentals/03_GDScript_Fundamentals.md#variables-operators-arrays-dictionaries)
+    - [**Functions, Control Statements, Classes**](./03_GDScript_Fundamentals/03_GDScript_Fundamentals.md#functions-control-statements-classes)
 
 - ### [**04: Setting Up Your First Project for Mobile Development**]()
     - Mobile app development workflow with Godot

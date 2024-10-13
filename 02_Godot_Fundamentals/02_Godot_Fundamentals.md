@@ -1,4 +1,4 @@
-[**🏠 Home**](../README.md) | [**◀️ Overview of Godot 4 and Mobile App Development**](../01_Overview_of_Godot_4_and_Mobile_App_Development/01_Overview_of_Godot_4_and_Mobile_App_Development.md) | [**Godot Fundamentals ▶️**](../02_Godot_Fundamentals/02_Godot_Fundamentals.md)
+[**🏠 Home**](../README.md) | [**◀️ Overview of Godot 4 and Mobile App Development**](../01_Overview_of_Godot_4_and_Mobile_App_Development/01_Overview_of_Godot_4_and_Mobile_App_Development.md) | [**GDScript Fundamentals ▶️**](../03_GDScript_Fundamentals/03_GDScript_Fundamentals.md)
 
 
 
@@ -152,4 +152,4 @@ This basic walkthrough showed you how to create a simple Godot project, add comp
 
 
 
-[**🏠 Home**](../README.md) | [**◀️ Overview of Godot 4 and Mobile App Development**](../01_Overview_of_Godot_4_and_Mobile_App_Development/01_Overview_of_Godot_4_and_Mobile_App_Development.md) | [**Godot Fundamentals ▶️**](../02_Godot_Fundamentals/02_Godot_Fundamentals.md)
+[**🏠 Home**](../README.md) | [**◀️ Overview of Godot 4 and Mobile App Development**](../01_Overview_of_Godot_4_and_Mobile_App_Development/01_Overview_of_Godot_4_and_Mobile_App_Development.md) | [**GDScript Fundamentals ▶️**](../03_GDScript_Fundamentals/03_GDScript_Fundamentals.md)
