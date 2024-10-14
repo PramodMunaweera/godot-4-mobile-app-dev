@@ -1,4 +1,4 @@
-[**🏠 Home**](../README.md) | [**◀️ GDScript Fundamentals**](../03_GDScript_Fundamentals/03_GDScript_Fundamentals.md) | [**GDScript Fundamentals ▶️**](../03_GDScript_Fundamentals/03_GDScript_Fundamentals.md)
+[**🏠 Home**](../README.md) | [**◀️ GDScript Fundamentals**](../03_GDScript_Fundamentals/03_GDScript_Fundamentals.md) | [**UI Nodes and Controls ▶️**](../05_UI_Nodes_and_Controls/05_UI_Nodes_and_Controls.md)
 
 
 
@@ -130,4 +130,4 @@ You've now set up your Godot project for mobile development and learned how to e
 
 
 
-[**🏠 Home**](../README.md) | [**◀️ GDScript Fundamentals**](../03_GDScript_Fundamentals/03_GDScript_Fundamentals.md) | [**GDScript Fundamentals ▶️**](../03_GDScript_Fundamentals/03_GDScript_Fundamentals.md)
+[**🏠 Home**](../README.md) | [**◀️ GDScript Fundamentals**](../03_GDScript_Fundamentals/03_GDScript_Fundamentals.md) | [**UI Nodes and Controls ▶️**](../05_UI_Nodes_and_Controls/05_UI_Nodes_and_Controls.md)

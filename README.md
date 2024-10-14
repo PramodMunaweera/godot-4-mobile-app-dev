@@ -46,12 +46,14 @@ This is kind of my learning diary, where I am compiling a series of lessons that
 
 ## **Phase 2: Basic UI Components and Layouts**
 
-- ### [**05: UI Nodes and Controls**]()
-    - Introduction to Control nodes
-    - Using basic UI elements: Buttons, Labels, Panels
+- ### [**05: UI Nodes and Controls**](./05_UI_Nodes_and_Controls/05_UI_Nodes_and_Controls.md)
+    - [**Introduction to Control Nodes**](./05_UI_Nodes_and_Controls/05_UI_Nodes_and_Controls.md#introduction-to-control-nodes)
+    - [**Basic UI elements**](./05_UI_Nodes_and_Controls/05_UI_Nodes_and_Controls.md#basic-ui-elements)
+    - [**Visual Rect Nodes**](./05_UI_Nodes_and_Controls/05_UI_Nodes_and_Controls.md#visual-rect-nodes)
 
 - ### [**06: Layouts and Containers**]()
-    - Understanding containers: VBoxContainer, HBoxContainer, GridContainer
+    - Understanding basic containers: Container, VBoxContainer, HBoxContainer, GridContainer
+    - CenterContainer, MarginContainer, PanelContainer, ScrollContainer, AspectRatioContainer
     - Creating responsive layouts
 
 - ### [**07: Styling and Theming**]()
