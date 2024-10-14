@@ -38,10 +38,10 @@ This is kind of my learning diary, where I am compiling a series of lessons that
     - [**Variables, Operators, Arrays, Dictionaries**](./03_GDScript_Fundamentals/03_GDScript_Fundamentals.md#variables-operators-arrays-dictionaries)
     - [**Functions, Control Statements, Classes**](./03_GDScript_Fundamentals/03_GDScript_Fundamentals.md#functions-control-statements-classes)
 
-- ### [**04: Setting Up Your First Project for Mobile Development**]()
-    - Mobile app development workflow with Godot
-    - Project setup and configuration for mobile development
-    - Exporting for Android
+- ### [**04: Project Setup for Mobile Development**](./04_Project_Setup_for_Mobile_Development/04_Project_Setup_for_Mobile_Development.md)
+    - [**Mobile App Development Workflow with Godot**](./04_Project_Setup_for_Mobile_Development/04_Project_Setup_for_Mobile_Development.md#mobile-app-development-workflow-with-godot)
+    - [**Project Setup and Configuration for Mobile Development**](./04_Project_Setup_for_Mobile_Development/04_Project_Setup_for_Mobile_Development.md#project-setup-and-configuration-for-mobile-development)
+    - [**Exporting for Android**](./04_Project_Setup_for_Mobile_Development/04_Project_Setup_for_Mobile_Development.md#exporting-for-android)
 
 
 ## **Phase 2: Basic UI Components and Layouts**

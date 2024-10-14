@@ -1,4 +1,4 @@
-[**🏠 Home**](../README.md) | [**◀️ Godot Fundamentals**](../02_Godot_Fundamentals/02_Godot_Fundamentals.md) | [**Godot Fundamentals ▶️**](../02_Godot_Fundamentals/02_Godot_Fundamentals.md)
+[**🏠 Home**](../README.md) | [**◀️ Godot Fundamentals**](../02_Godot_Fundamentals/02_Godot_Fundamentals.md) | [**Project Setup for Mobile Development ▶️**](../04_Project_Setup_for_Mobile_Development/04_Project_Setup_for_Mobile_Development.md)
 
 
 
@@ -410,4 +410,5 @@ print(player1.health)  # 90
 This chapter has covered the fundamental concepts of GDScript, from basic syntax and data types to more advanced topics like functions, control structures, and object-oriented programming. With these foundations, you're well-equipped to start creating games and UI experiences in Godot.
 
 
-[**🏠 Home**](../README.md) | [**◀️ Godot Fundamentals**](../02_Godot_Fundamentals/02_Godot_Fundamentals.md) | [**Godot Fundamentals ▶️**](../02_Godot_Fundamentals/02_Godot_Fundamentals.md)
+
+[**🏠 Home**](../README.md) | [**◀️ Godot Fundamentals**](../02_Godot_Fundamentals/02_Godot_Fundamentals.md) | [**Project Setup for Mobile Development ▶️**](../04_Project_Setup_for_Mobile_Development/04_Project_Setup_for_Mobile_Development.md)
