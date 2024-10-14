@@ -11,17 +11,17 @@
 
 # **Project Setup for Mobile Development**
 
-Mobile game development with Godot Engine offers a powerful and flexible way to create games for Android and iOS devices. This chapter will guide you through the process of setting up your first Godot project for mobile development, configuring it properly, and exporting it for Android platforms.
+Mobile app development with Godot Engine offers a powerful and flexible way to create apps for Android and iOS devices. This chapter will guide you through the process of setting up your first Godot project for mobile development, configuring it properly, and exporting it for Android platforms.
 
 ## **Mobile App Development Workflow with Godot**
 
 The mobile app development workflow in Godot follows these general steps:
 
 1. **Project Setup**: Create and configure your Godot project for mobile development.
-2. **Development**: Build your game using GDScript, the Godot editor, and mobile-specific considerations.
+2. **Development**: Build your app using GDScript, the Godot editor, and mobile-specific considerations.
 3. **Testing**: Use the Godot simulator or deploy to a physical device for testing.
-4. **Optimization**: Adjust your game for mobile performance and user experience.
-5. **Export**: Prepare your game for distribution on mobile platforms.
+4. **Optimization**: Adjust your app for mobile performance and user experience.
+5. **Export**: Prepare your app for distribution on mobile platforms.
 
 ### Key Considerations for Mobile Development
 
@@ -30,7 +30,7 @@ When developing for mobile platforms, keep these factors in mind:
 - **Screen Sizes**: Mobile devices come in various sizes and resolutions, so design your UI to be resolution-independent by using anchors and margins in the UI, and avoid hard-coding positions.
 - **Touch Input**: Implement touch controls instead of keyboard/mouse inputs.
 - **Performance**: Mobile devices have limited resources compared to desktops, so you need to optimize your app for performance. Reduce texture sizes, limit draw calls, and ensure efficient use of resources.
-- **File Size**: Keep your game's file size reasonable for mobile downloads.
+- **File Size**: Keep your app's file size reasonable for mobile downloads.
 
 ## **Project Setup and Configuration for Mobile Development**
 
@@ -90,10 +90,10 @@ To export your Godot project for Android, you'll need to set up your development
 1. Go to "Project" > "Export"
 2. Click "Add" and select "Android"
 3. Configure the following settings:
-   - **Package**: Set a unique identifier (e.g., com.yourstudio.gamename)
+   - **Package**: Set a unique identifier (Ex: com.yourstudio.appname)
    - **Version Code**: Set to 1 (increment for each update)
    - **Version Name**: Set to "1.0" (or your preferred version string)
-   - **Permissions**: Add any required permissions (e.g., INTERNET for online features)
+   - **Permissions**: Add any required permissions (Ex: INTERNET for online features)
 
 ### Customizing the Android Export
 
