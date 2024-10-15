@@ -51,11 +51,63 @@ This is kind of my learning diary, where I am compiling a series of lessons that
     - [**Basic UI elements**](./05_UI_Nodes_and_Controls/05_UI_Nodes_and_Controls.md#basic-ui-elements)
     - [**Visual Rect Nodes**](./05_UI_Nodes_and_Controls/05_UI_Nodes_and_Controls.md#visual-rect-nodes)
 
-- ### [**06: Layouts and Containers**]()
-    - Understanding basic containers: Container, VBoxContainer, HBoxContainer, GridContainer
-    - CenterContainer, MarginContainer, PanelContainer, ScrollContainer, AspectRatioContainer
-    - Creating responsive layouts
+- ### [**06: Layouts and Containers**](./06_Layouts_and_Containers/06_Layouts_and_Containers.md)
+    - [**Containers**](./06_Layouts_and_Containers/06_Layouts_and_Containers.md#containers)
+    - [**Anchors and Margins**](./06_Layouts_and_Containers/06_Layouts_and_Containers.md#anchors-and-margins)
+    - [**Creating Responsive Layouts**](./06_Layouts_and_Containers/06_Layouts_and_Containers.md#creating-responsive-layouts)
 
 - ### [**07: Styling and Theming**]()
     - Introduction to themes and styles
     - Customizing UI elements with themes
+
+
+## **Phase 3: User Interaction**
+
+- ### **08: Input Handling and Events**
+    - Handling user input
+    - Gestures and touch input
+    - Connecting signals to functions
+    - Creating interactive UI elements
+
+- ### **09: Navigation and Scene Management**
+    - Implementing navigation between scenes
+    - Using the SceneTree and Viewport
+
+
+## **Phase 4: Data Persistence and Networking**
+
+- ### **10: Data Persistence**
+    - Implementing save and load functionality
+    - Saving user preferences
+    - Using JSON for data persistence
+    - SQLLite database connectivity
+
+- ### **11: Networking**
+    - Fetching data from APIs
+    - Parsing and displaying data in the app
+
+
+## **Phase 5: Animations**
+
+- ### **12: Godot Animation Techniques**
+    - Basics of 2D animations in Godot
+    - Using the AnimationPlayer node
+    - Creating simple animations
+    - Using AnimationTree for complex animations
+    - Keyframe animations and transitions
+
+- ### **13: Integrating Animations into UI**
+    - Animating UI components
+    - Adding animations to buttons, panels, and other UI elements
+    - Creating animated transitions between scenes
+
+
+## **Phase 6: Advanced Concepts**
+
+- ### **14: Interaction with OS**
+    - Push notifications
+    - Accessing mobile hardware
+
+- ### **15: Internationalization**
+    - Introduction to Internationalization
+    - Multilingual support

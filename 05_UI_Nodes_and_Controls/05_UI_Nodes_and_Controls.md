@@ -1,4 +1,4 @@
-[**🏠 Home**](../README.md) | [**◀️ Project Setup for Mobile Development**](../04_Project_Setup_for_Mobile_Development/04_Project_Setup_for_Mobile_Development.md) | [**Project Setup for Mobile Development ▶️**](../04_Project_Setup_for_Mobile_Development/04_Project_Setup_for_Mobile_Development.md)
+[**🏠 Home**](../README.md) | [**◀️ Project Setup for Mobile Development**](../04_Project_Setup_for_Mobile_Development/04_Project_Setup_for_Mobile_Development.md) | [**Layouts and Containers ▶️**](../06_Layouts_and_Containers/06_Layouts_and_Containers.md)
 
 
 
@@ -120,4 +120,4 @@ In addition to basic controls, Godot also provides nodes that are specifically d
     ```
 
 
-[**🏠 Home**](../README.md) | [**◀️ Project Setup for Mobile Development**](../04_Project_Setup_for_Mobile_Development/04_Project_Setup_for_Mobile_Development.md) | [**Project Setup for Mobile Development ▶️**](../04_Project_Setup_for_Mobile_Development/04_Project_Setup_for_Mobile_Development.md)
+[**🏠 Home**](../README.md) | [**◀️ Project Setup for Mobile Development**](../04_Project_Setup_for_Mobile_Development/04_Project_Setup_for_Mobile_Development.md) | [**Layouts and Containers ▶️**](../06_Layouts_and_Containers/06_Layouts_and_Containers.md)
